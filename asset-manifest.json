@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-swapi/static/css/main.c7cace19.chunk.css",
-    "main.js": "/react-swapi/static/js/main.5be8305e.chunk.js",
-    "main.js.map": "/react-swapi/static/js/main.5be8305e.chunk.js.map",
-    "runtime~main.js": "/react-swapi/static/js/runtime~main.d8b3eecc.js",
-    "runtime~main.js.map": "/react-swapi/static/js/runtime~main.d8b3eecc.js.map",
-    "static/js/2.aec14cca.chunk.js": "/react-swapi/static/js/2.aec14cca.chunk.js",
-    "static/js/2.aec14cca.chunk.js.map": "/react-swapi/static/js/2.aec14cca.chunk.js.map",
-    "index.html": "/react-swapi/index.html",
-    "precache-manifest.49d59f3be0fc06b1996f36d4d006c58f.js": "/react-swapi/precache-manifest.49d59f3be0fc06b1996f36d4d006c58f.js",
-    "service-worker.js": "/react-swapi/service-worker.js",
-    "static/css/main.c7cace19.chunk.css.map": "/react-swapi/static/css/main.c7cace19.chunk.css.map"
+    "main.css": "/react-tab-wizard/static/css/main.c7cace19.chunk.css",
+    "main.js": "/react-tab-wizard/static/js/main.eee5a0bd.chunk.js",
+    "main.js.map": "/react-tab-wizard/static/js/main.eee5a0bd.chunk.js.map",
+    "runtime~main.js": "/react-tab-wizard/static/js/runtime~main.26e7de06.js",
+    "runtime~main.js.map": "/react-tab-wizard/static/js/runtime~main.26e7de06.js.map",
+    "static/js/2.aec14cca.chunk.js": "/react-tab-wizard/static/js/2.aec14cca.chunk.js",
+    "static/js/2.aec14cca.chunk.js.map": "/react-tab-wizard/static/js/2.aec14cca.chunk.js.map",
+    "index.html": "/react-tab-wizard/index.html",
+    "precache-manifest.243b07315873890067c3982511d9d2f2.js": "/react-tab-wizard/precache-manifest.243b07315873890067c3982511d9d2f2.js",
+    "service-worker.js": "/react-tab-wizard/service-worker.js",
+    "static/css/main.c7cace19.chunk.css.map": "/react-tab-wizard/static/css/main.c7cace19.chunk.css.map"
   }
 }
