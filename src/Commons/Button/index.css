@@ -1,0 +1,123 @@
+
+.btn {
+    background-color: #796eff;
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color .15s,color .15s ease-in-out;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background-color: #635ac7;
+    border-bottom: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn:active {
+    box-shadow: none;
+    outline: 0;
+}
+
+.btn-no-fill {
+    background-color: #fff;
+    color: #796eff;
+    border: 2px solid #796eff;
+}
+
+.btn-disabled, .btn-disabled:hover {
+    background-color: #737373;
+    border-bottom: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-small {
+    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 24px;
+    width: fit-content;
+}
+
+.btn-secondary {
+    background-color: #fff;
+    color: #9ca6af;
+}
+
+.btn-secondary:hover {
+    background-color: #fff;
+    color: #9ca6af;
+    box-shadow: 0 11px 12px 0 rgba(36,50,66,.12);
+}
+
+.btn-large {
+    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 24px;
+}
+
+.btn-icon {
+    width: 25px;
+    height: 50px;
+}
+
+.btn__left {
+    position: relative;
+    float: left;
+}
+
+.shadow-bottom {
+    box-shadow: 0 3px 5px 0 rgba(36,50,66,.2);
+}
+
+.large {
+    width: 80%;
+    height: inherit;
+}
+
+.nav-buttons {
+    background-color: #796eff;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    transition: background-color .15s,color .15s ease-in-out;
+    font-weight: 600;
+}
+
+.nav-buttons:hover {
+    background-color: #635ac7;
+    border-bottom: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-disabled, .nav-disabled:hover {
+    background-color: #737373;
+    border-bottom: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-buttons:active {
+    box-shadow: none;
+    outline: 0;
+}
+
+.nav-buttons:focus {
+    background-color: #119bf1;
+    box-shadow: none;
+    outline: 0;
+}
+
+.isActive {
+    background-color: #119bf1;
+    box-shadow: none;
+    transition: background-color .75s;
+    outline: 0;
+}
